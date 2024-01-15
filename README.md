@@ -1,16 +1,5 @@
 # lg_kiss_controller
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Github repository : https://github.com/ath09/lg_controller_kiss
+Video link : https://drive.google.com/file/d/1P2Rt1ORiGiDbOz85bAEODBMZhpls1t-V/view?usp=sharing
+Docs link : https://docs.google.com/document/d/18SakFEyDjzwQuX5GbLLVMLP4VoO90aYAtckp1AQ4L4g/edit?usp=sharing
